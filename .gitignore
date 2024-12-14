@@ -1,0 +1,16 @@
+# Ignore model and scaler files
+neural_network_model_tuned.h5
+neural_network_model.h5
+random_forest_model.pkl
+scaler_tuned.pkl
+scaler.pkl
+
+# Ignore dataset files
+synthetic_nurse_data.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment and config files
+.vscode/
+.env
